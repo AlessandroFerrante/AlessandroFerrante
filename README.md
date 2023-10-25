@@ -1,5 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Alessandro Ferrante</h1>
 
+---
+- 🌱 I'm currently BSC Undergraduate at Università di Catania
+- 🔭 I’m currently working on Node.js
+- 👨‍💻 All of my projects are available at [alessandroferrante.netlify.app](alessandroferrante.netlify.app)
+- 📫 How to reach me **aleferrante003@gmail.com**
+  
 <!--
 **AlessandroFerrante/AlessandroFerrante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
