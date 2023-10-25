@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro Ferrante</h1>
 
----
 - 🌱 I'm currently BSC Undergraduate at Università di Catania
 - 🔭 I’m currently working on Node.js
 - 👨‍💻 All of my projects are available at [alessandroferrante.netlify.app](alessandroferrante.netlify.app)
