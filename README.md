@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently BSC Undergraduate at Università di Catania
 - 🔭 I’m currently working on Node.js
-- 👨‍💻 All of my projects are available at [alessandroferrante.netlify.app](alessandroferrante.netlify.app)
+- 👨‍💻 All of my projects are available at [alessandroferrante.netlify.app](https://alessandroferrante.netlify.app/)
 - 📫 How to reach me **aleferrante003@gmail.com**
   
 <!--
