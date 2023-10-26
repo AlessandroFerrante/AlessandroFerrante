@@ -4,8 +4,10 @@
 - 👨🏼‍💻 All of my projects are available at [***alessandroferrante.netlify.app***](https://alessandroferrante.netlify.app/)
 - 📫 How to reach me **aleferrante003@gmail.com**
 - 👨🏼‍🚀 *`floating freely in space!`*
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroFerrante&layout=compact&theme=transparent&include_all_commits=true&show_owner=true&langs_count=20&title_color=2D66FE&text_color=2D66FE&icon_color=2D66FE&hide_border=true)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroFerrante&layout=compact&theme=transparent&include_all_commits=true&show_owner=true&langs_count=20&title_color=2D66FE&text_color=2D66FE&icon_color=2D66FE&hide_border=true)
+ 
+<img src="https://komarev.com/ghpvc/?username=AlessandroFerrante&style=for-the-badge">
 <!--
 **AlessandroFerrante/AlessandroFerrante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
