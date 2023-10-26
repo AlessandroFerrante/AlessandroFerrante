@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Alessandro Ferrante</h1>
-
+### Hi 👋🏼, I'm Alessandro Ferrante
 - 🌱 I'm currently BSC Undergraduate at Università di Catania
-- 🔭 I’m currently working on Node.js
-- 👨‍💻 All of my projects are available at [alessandroferrante.netlify.app](https://alessandroferrante.netlify.app/)
+- 🔭 I’m currently learning Node.js
+- 👨🏼‍💻 All of my projects are available at [***alessandroferrante.netlify.app***](https://alessandroferrante.netlify.app/)
 - 📫 How to reach me **aleferrante003@gmail.com**
-  
+- 👨🏼‍🚀 *`floating freely in space!`*
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroFerrante&layout=compact&theme=transparent&include_all_commits=true&show_owner=true&langs_count=20&title_color=2D66FE&text_color=2D66FE&icon_color=2D66FE&hide_border=true)
+
+
+
 <!--
 **AlessandroFerrante/AlessandroFerrante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
