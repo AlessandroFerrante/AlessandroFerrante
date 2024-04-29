@@ -1,8 +1,8 @@
 ### Hi 👋🏼, I'm Alessandro Ferrante
 - 🌱 I'm currently BSC Undergraduate at Università di Catania
 - 🔭 I’m currently learning Node.js
-- 👨🏼‍💻 All of my projects are available at [***alessandroferrante.netlify.app***](https://alessandroferrante.netlify.app/)
-- 📫 How to reach me **aleferrante003@gmail.com**
+- 👨🏼‍💻 All of my projects are available at [***alessandroferrante.net***](https://alessandroferrante.net/)
+- 📫 How to reach me **info@alessandroferrante.net**
 - 👨🏼‍🚀 *`floating freely in space!`*
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroFerrante&layout=compact&theme=transparent&include_all_commits=true&show_owner=true&langs_count=20&title_color=2D66FE&text_color=2D66FE&icon_color=2D66FE&hide_border=true)
