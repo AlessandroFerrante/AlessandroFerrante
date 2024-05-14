@@ -8,6 +8,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroFerrante&layout=compact&theme=transparent&include_all_commits=true&show_owner=true&langs_count=20&title_color=2D66FE&text_color=2D66FE&icon_color=2D66FE&hide_border=true)
  
 <img src="https://komarev.com/ghpvc/?username=AlessandroFerrante&style=for-the-badge">
+
+![](https://hit.yhype.me/github/profile?user_id=104135680)
+
 <!--
 **AlessandroFerrante/AlessandroFerrante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
